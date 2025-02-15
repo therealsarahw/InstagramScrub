@@ -1,7 +1,6 @@
 # InstagramScrub 🧹  
 **Clean up your Instagram likes and comments—because who wants their 2013 cringe posts haunting them forever?**  
 
-![Version](https://img.shields.io/github/v/release/therealsarahw/InstagramScrub)  
 ![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow)  
 ![Platform](https://img.shields.io/badge/platform-Instagram-blue)  
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)  
