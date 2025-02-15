@@ -1,27 +1,3 @@
-/**
- * This script automates the process of deleting your own Instagram comments.
- * It deletes comments in batches to avoid hitting rate limits or breaking the page.
- *
- * WARNING: This function directly manipulates the DOM and depends on the current HTML
- *  structure of Instagram's website to work. If Instagram implements changes to the
- *  activity page layout, structure, or functionality, this script may break or cause
- *  unexpected behavior. Use at your own risk and always review code before running it.
- *
- * How to use:
- * 1. Navigate to the Instagram comments page by going to:
- *    https://www.instagram.com/your_activity/interactions/likes
- * 2. Open the developer console in your web browser:
- *    - Chrome/Firefox: Press Ctrl+Shift+J (Windows/Linux) or Cmd+Option+J (Mac)
- *    - Safari: Enable the Develop menu in Safari's Advanced preferences, then press Cmd+Option+C
- * 3. Copy and paste this entire script into the console and press Enter to run it.
- *
- * How to navigate to the comments page on instagram.com:
- * 1. Log in to Instagram on a desktop browser.
- * 2. Go to your profile by clicking on the profile icon at the bottom right.
- * 3. Click on "Your Activity" in the menu.
- * 4. Select "Interactions" and then "Comments".
- * 5. Follow the usage steps above to run this script.
- */
 ;(async function () {
   // Constants
   /** @const {number} - The number of comments to delete in each batch. */
